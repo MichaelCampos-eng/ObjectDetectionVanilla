@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mikmachac/ObjectDetectionVanilla/static/css/main.073c9b0a.css",
+    "main.js": "/mikmachac/ObjectDetectionVanilla/static/js/main.725fdbfd.js",
+    "index.html": "/mikmachac/ObjectDetectionVanilla/index.html",
+    "main.073c9b0a.css.map": "/mikmachac/ObjectDetectionVanilla/static/css/main.073c9b0a.css.map",
+    "main.725fdbfd.js.map": "/mikmachac/ObjectDetectionVanilla/static/js/main.725fdbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.725fdbfd.js"
+  ]
+}
