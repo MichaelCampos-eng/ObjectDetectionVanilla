@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mikmachac/ObjectDetectionVanilla/static/css/main.073c9b0a.css",
+    "main.css": "/mikmachac/ObjectDetectionVanilla/static/css/main.e6c13ad2.css",
     "main.js": "/mikmachac/ObjectDetectionVanilla/static/js/main.725fdbfd.js",
     "index.html": "/mikmachac/ObjectDetectionVanilla/index.html",
-    "main.073c9b0a.css.map": "/mikmachac/ObjectDetectionVanilla/static/css/main.073c9b0a.css.map",
+    "main.e6c13ad2.css.map": "/mikmachac/ObjectDetectionVanilla/static/css/main.e6c13ad2.css.map",
     "main.725fdbfd.js.map": "/mikmachac/ObjectDetectionVanilla/static/js/main.725fdbfd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.e6c13ad2.css",
     "static/js/main.725fdbfd.js"
   ]
 }
